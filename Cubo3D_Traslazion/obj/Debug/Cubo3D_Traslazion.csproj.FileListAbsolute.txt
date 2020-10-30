@@ -1,0 +1,12 @@
+C:\Users\rasec\source\repos\Cubo3D_Traslazion\Cubo3D_Traslazion\bin\Debug\Cubo3D_Traslazion.exe.config
+C:\Users\rasec\source\repos\Cubo3D_Traslazion\Cubo3D_Traslazion\bin\Debug\Cubo3D_Traslazion.exe
+C:\Users\rasec\source\repos\Cubo3D_Traslazion\Cubo3D_Traslazion\bin\Debug\Cubo3D_Traslazion.pdb
+C:\Users\rasec\source\repos\Cubo3D_Traslazion\Cubo3D_Traslazion\bin\Debug\Graphics3DS.dll
+C:\Users\rasec\source\repos\Cubo3D_Traslazion\Cubo3D_Traslazion\obj\Debug\Cubo3D_Traslazion.csprojAssemblyReference.cache
+C:\Users\rasec\source\repos\Cubo3D_Traslazion\Cubo3D_Traslazion\obj\Debug\Cubo3D_Traslazion.Form1.resources
+C:\Users\rasec\source\repos\Cubo3D_Traslazion\Cubo3D_Traslazion\obj\Debug\Cubo3D_Traslazion.Properties.Resources.resources
+C:\Users\rasec\source\repos\Cubo3D_Traslazion\Cubo3D_Traslazion\obj\Debug\Cubo3D_Traslazion.csproj.GenerateResource.cache
+C:\Users\rasec\source\repos\Cubo3D_Traslazion\Cubo3D_Traslazion\obj\Debug\Cubo3D_Traslazion.csproj.CoreCompileInputs.cache
+C:\Users\rasec\source\repos\Cubo3D_Traslazion\Cubo3D_Traslazion\obj\Debug\Cubo3D_Traslazion.csproj.CopyComplete
+C:\Users\rasec\source\repos\Cubo3D_Traslazion\Cubo3D_Traslazion\obj\Debug\Cubo3D_Traslazion.exe
+C:\Users\rasec\source\repos\Cubo3D_Traslazion\Cubo3D_Traslazion\obj\Debug\Cubo3D_Traslazion.pdb
